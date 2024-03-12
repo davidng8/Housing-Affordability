@@ -1,0 +1,41 @@
+County,Persons_No_Minor,Households_No_Minor,Persons_W_Minors,Households_W_Minors,Persons_HH_Only_Minors,Households_HH_Only_Minors,Total_Persons,Total_Households
+Adams County,0,0,0,0,0,0,0,0
+Asotin County,13,13,< 11,< 11,0,0,*,*
+Benton County,50,50,81,23,< 11,< 11,138,79
+Chelan County,229,215,92,30,16,< 11,337,248
+Clallam County,151,147,46,16,< 11,< 11,198,164
+Clark County,536,491,372,120,< 11,< 11,916,619
+Columbia County,< 11,< 11,< 11,< 11,0,0,11,< 11
+Cowlitz County,244,223,81,28,< 11,< 11,328,252
+Douglas County,12,12,< 11,< 11,0,0,21,15
+Ferry County,< 11,< 11,0,0,0,0,< 11,< 11
+Franklin County,44,44,< 11,< 11,< 11,< 11,52,48
+Garfield County,< 11,< 11,< 11,< 11,0,0,< 11,< 11
+Grant County,104,97,75,19,< 11,< 11,180,117
+Grays Harbor County,92,91,15,< 11,< 11,0,108,95
+Island County,105,94,24,< 11,0,0,129,103
+Jefferson County,119,112,20,< 11,0,0,139,118
+King County,7707,7222,3743,1190,301,210,11751,8622
+Kitsap County,390,366,133,42,< 11,< 11,*,*
+Kittitas County,< 11,< 11,< 11,< 11,< 11,< 11,15,14
+Klickitat County,28,27,< 11,< 11,< 11,< 11,33,30
+Lewis County,97,89,45,16,0,0,142,105
+Lincoln County,0,0,0,0,0,0,0,0
+Mason County,90,86,83,25,< 11,< 11,178,113
+Okanogan County,55,49,11,< 11,< 11,< 11,67,56
+Pacific County,48,44,11,< 11,< 11,< 11,60,48
+Pend Oreille County,11,< 11,29,< 11,< 11,< 11,42,20
+Pierce County,1527,1445,358,113,12,12,1897,1570
+San Juan County,55,55,< 11,< 11,0,0,65,59
+Skagit County,181,162,130,36,< 11,0,*,198
+Skamania County,36,35,< 11,< 11,0,0,43,37
+Snohomish County,818,776,284,92,30,29,1132,897
+Spokane County,1171,1118,363,104,25,22,1559,1244
+Stevens County,35,33,< 11,< 11,0,0,*,*
+Thurston County,672,645,310,95,13,*,995,747
+Wahkiakum County,< 11,< 11,0,0,0,0,< 11,< 11
+Walla Walla County,123,122,< 11,< 11,< 11,< 11,140,128
+Whatcom County,521,496,165,55,< 11,< 11,*,*
+Whitman County,< 11,< 11,14,< 11,< 11,0,22,< 11
+Yakima County,457,442,176,49,0,0,633,491
+TOTAL,15741,14830,6732,2118,450,318,22923,17266

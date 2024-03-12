@@ -1,0 +1,23 @@
+Type,Category,Emergency_Shelter,Transitional_Housing,Safe_Haven,Total_Sheltered,Unsheltered,Total
+Households_one adult_one child,Households,958.0,544,-,1502.0,618,2120.0
+Households_one adult_one child,Persons,3120.0,1726,-,4846.0,1881,6727.0
+Households_ only_children,Households,71.0,19,-,90.0,444,534.0
+Households_ only_children,Persons,71.0,19,-,90.0,444,534.0
+Households_without_children,Households,6341.0,1089,55,7485.0,10263,17748.0
+Households_without_children,Persons,6445.0,1107,55,7607.0,10584,18191.0
+Total,Households,7370.0,1652,55,9077.0,11325,20402.0
+Total,Persons,9636.0,2852,55,12543.0,12909,25452.0
+Subpopulations,Chronically Homeless Individuals,3271.0,-,49,3320.0,4946,8266.0
+Subpopulations,Adults with a Serious Mental Illness,2248.0,573,23,2844.0,4591,7435.0
+Subpopulations,Adults with a Substance Use Disorder,1581.0,383,25,1989.0,4672,6661.0
+Subpopulations,Adults with HIV/AIDS,35.0,< 11,-,39.0,16,55.0
+Subpopulations,Adult Victims of Domestic Violence,930.0,275,< 11,1207.0,317,1524.0
+Veterans,Veteran Households,437.0,245,15,697.0,810,1507.0
+Veterans,Veterans,444.0,246,15,705.0,864,1569.0
+Youth Households (under 25),,,,,,,
+Households_Under_25,Total numbers of households,1518.0,417,11,1946.0,2796,4742.0
+Households_Under_25,Unaccompanied Youth households,1423.0,332,< 11,1764.0,2793,4557.0
+Households_Under_25,Parenting Youth Households,95.0,85,< 11,182.0,< 11,185.0
+Persons,Total number of persons,1550.0,459,11,2020.0,1056,3076.0
+Persons,Persons in parenting youth household,106.0,116,< 11,224.0,< 11,230.0
+Persons,Persons in unaccompanied youth household,1444.0,343,< 11,1796.0,1050,2846.0

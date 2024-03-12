@@ -1,0 +1,26 @@
+Type,Category,Emergency_Shelter,Transitional_Housing,Safe_Haven,Total_Sheltered,Unsheltered,TOTAL
+Households_one adult_one child,Households,781.0,767,-,1548.0,570.0,2118.0
+Households_one adult_one child,Persons,2505.0,2336,-,4841.0,1891.0,6732.0
+Households_ only_children,Households,68.0,26,-,94.0,224.0,318.0
+Households_ only_children,Persons,95.0,47,-,142.0,308.0,450.0
+Households_without_children,Households,5813.0,1048,81,6942.0,7888.0,14830.0
+Households_without_children,Persons,5933.0,1112,81,7126.0,8615.0,15741.0
+Total,Households,6662.0,1841,81,8584.0,10506.0,17266.0
+Total,Persons,8533.0,3495,81,12109.0,10814.0,22923.0
+Subpopulations,Chronically Homeless Individuals,2268.0,-,67,2335.0,4472.0,6807.0
+Subpopulations,Chronically Homeless Families,66.0,-,-,66.0,164.0,230.0
+Subpopulations,Persons in Chronically Homeless Families,258.0,-,-,258.0,610.0,868.0
+Subpopulations,Chronically Homeless Veteran Individuals,196.0,-,25,221.0,379.0,600.0
+Subpopulations,Adults with a Serious Mental Illness,1478.0,344,44,1866.0,4743.0,6609.0
+Subpopulations,Adults with a Substance Use Disorder,1146.0,252,27,1425.0,3873.0,5298.0
+Subpopulations,Adults with HIV/AIDS,15.0,18,-,33.0,196.0,229.0
+Subpopulations,Adult Victims of Domestic Violence,829.0,338,< 10,1189.0,2356.0,3545.0
+Veterans,Veteran Households,554.0,269,39,862.0,673.0,1535.0
+Veterans,Veterans,558.0,269,39,866.0,741.0,1607.0
+Youth Households (under 25),,,,,,,
+Households_Under_25,Total numbers of households,500.0,375,-,875.0,772.0,1647.0
+Households_Under_25,Unaccompanied Youth households,457.0,286,-,743.0,720.0,1463.0
+Households_Under_25,Parenting Youth Households,43.0,89,-,132.0,52.0,184.0
+Persons,Total number of persons,620.0,520,-,1140.0,1080.0,2220.0
+Persons,Persons in parenting youth household,129.0,219,-,348.0,129.0,477.0
+Persons,Persons in unaccompanied youth household,491.0,301,-,792.0,951.0,1743.0
